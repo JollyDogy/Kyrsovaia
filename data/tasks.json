@@ -1,11 +1,1 @@
-[
-  {
-    "id": 1,
-    "title": "Название",
-    "description": "Описание",
-    "category": "Категория",
-    "dueDate": "2003-03-01",
-    "isUrgent": false,
-    "completed": false
-  }
-]
+[]
